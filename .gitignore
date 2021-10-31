@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Manualy added
+dl-env
+*.npy
+
 # Distribution / packaging
 .Python
 build/
